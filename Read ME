@@ -1,0 +1,4 @@
+This project creates a automatic report that tracks the KPI of an Amazon Delivery Partner.
+The manager asks to have a generated report that will provide actionable insights about whether or not the DSP will recieve a bonus, and if so how large.
+With this automatically updating, tableau report, they should know who to talk to, whether we are on track to recieve a bonus this week, and why or why not.
+This makes the guessing games of whether or not a bonus will be recieved a simple 5 minute glance at an automatically generated report.
